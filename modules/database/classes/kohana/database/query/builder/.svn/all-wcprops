@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/idazhe/!svn/ver/3/1/modules/database/classes/kohana/database/query/builder
+END
+where.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/idazhe/!svn/ver/3/1/modules/database/classes/kohana/database/query/builder/where.php
+END
+insert.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/idazhe/!svn/ver/3/1/modules/database/classes/kohana/database/query/builder/insert.php
+END
+update.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/idazhe/!svn/ver/3/1/modules/database/classes/kohana/database/query/builder/update.php
+END
+join.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/idazhe/!svn/ver/3/1/modules/database/classes/kohana/database/query/builder/join.php
+END
+delete.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/idazhe/!svn/ver/3/1/modules/database/classes/kohana/database/query/builder/delete.php
+END
+select.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/idazhe/!svn/ver/3/1/modules/database/classes/kohana/database/query/builder/select.php
+END

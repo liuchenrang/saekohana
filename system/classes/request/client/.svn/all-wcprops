@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/idazhe/!svn/ver/3/1/system/classes/request/client
+END
+http.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/idazhe/!svn/ver/3/1/system/classes/request/client/http.php
+END
+external.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/idazhe/!svn/ver/3/1/system/classes/request/client/external.php
+END
+curl.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/idazhe/!svn/ver/3/1/system/classes/request/client/curl.php
+END
+internal.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/idazhe/!svn/ver/3/1/system/classes/request/client/internal.php
+END
+stream.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/idazhe/!svn/ver/3/1/system/classes/request/client/stream.php
+END

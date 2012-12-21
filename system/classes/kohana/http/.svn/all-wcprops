@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/idazhe/!svn/ver/3/1/system/classes/kohana/http
+END
+message.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/idazhe/!svn/ver/3/1/system/classes/kohana/http/message.php
+END
+header.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/idazhe/!svn/ver/3/1/system/classes/kohana/http/header.php
+END
+exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/idazhe/!svn/ver/3/1/system/classes/kohana/http/exception.php
+END
+request.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/idazhe/!svn/ver/3/1/system/classes/kohana/http/request.php
+END
+response.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/idazhe/!svn/ver/3/1/system/classes/kohana/http/response.php
+END
+cache.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/idazhe/!svn/ver/3/1/system/classes/kohana/http/cache.php
+END

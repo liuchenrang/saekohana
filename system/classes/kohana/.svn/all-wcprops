@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/idazhe/!svn/ver/4/1/system/classes/kohana
+END
+validation.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/idazhe/!svn/ver/3/1/system/classes/kohana/validation.php
+END
+file.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/idazhe/!svn/ver/3/1/system/classes/kohana/file.php
+END
+valid.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/idazhe/!svn/ver/3/1/system/classes/kohana/valid.php
+END
+security.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/idazhe/!svn/ver/3/1/system/classes/kohana/security.php
+END
+response.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/idazhe/!svn/ver/3/1/system/classes/kohana/response.php
+END
+upload.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/idazhe/!svn/ver/3/1/system/classes/kohana/upload.php
+END
+config.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/idazhe/!svn/ver/3/1/system/classes/kohana/config.php
+END
+form.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/idazhe/!svn/ver/3/1/system/classes/kohana/form.php
+END
+log.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/idazhe/!svn/ver/3/1/system/classes/kohana/log.php
+END
+num.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/idazhe/!svn/ver/3/1/system/classes/kohana/num.php
+END
+http.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/idazhe/!svn/ver/3/1/system/classes/kohana/http.php
+END
+route.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/idazhe/!svn/ver/3/1/system/classes/kohana/route.php
+END
+exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/idazhe/!svn/ver/3/1/system/classes/kohana/exception.php
+END
+request.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/idazhe/!svn/ver/3/1/system/classes/kohana/request.php
+END
+fragment.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/idazhe/!svn/ver/3/1/system/classes/kohana/fragment.php
+END
+debug.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/idazhe/!svn/ver/3/1/system/classes/kohana/debug.php
+END
+session.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/idazhe/!svn/ver/3/1/system/classes/kohana/session.php
+END
+controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/idazhe/!svn/ver/3/1/system/classes/kohana/controller.php
+END
+feed.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/idazhe/!svn/ver/3/1/system/classes/kohana/feed.php
+END
+i18n.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/idazhe/!svn/ver/3/1/system/classes/kohana/i18n.php
+END
+core.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/idazhe/!svn/ver/11/1/system/classes/kohana/core.php
+END
+cli.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/idazhe/!svn/ver/3/1/system/classes/kohana/cli.php
+END
+arr.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/idazhe/!svn/ver/3/1/system/classes/kohana/arr.php
+END
+cookie.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/idazhe/!svn/ver/3/1/system/classes/kohana/cookie.php
+END
+encrypt.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/idazhe/!svn/ver/3/1/system/classes/kohana/encrypt.php
+END
+view.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/idazhe/!svn/ver/3/1/system/classes/kohana/view.php
+END
+model.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/idazhe/!svn/ver/3/1/system/classes/kohana/model.php
+END
+profiler.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/idazhe/!svn/ver/3/1/system/classes/kohana/profiler.php
+END
+html.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/idazhe/!svn/ver/3/1/system/classes/kohana/html.php
+END
+text.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/idazhe/!svn/ver/3/1/system/classes/kohana/text.php
+END
+date.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/idazhe/!svn/ver/3/1/system/classes/kohana/date.php
+END
+inflector.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/idazhe/!svn/ver/3/1/system/classes/kohana/inflector.php
+END
+url.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/idazhe/!svn/ver/3/1/system/classes/kohana/url.php
+END
+utf8.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/idazhe/!svn/ver/3/1/system/classes/kohana/utf8.php
+END

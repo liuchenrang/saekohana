@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/idazhe/!svn/ver/4/1/system/classes
+END
+validation.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/idazhe/!svn/ver/3/1/system/classes/validation.php
+END
+file.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/idazhe/!svn/ver/3/1/system/classes/file.php
+END
+valid.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/idazhe/!svn/ver/3/1/system/classes/valid.php
+END
+security.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/idazhe/!svn/ver/3/1/system/classes/security.php
+END
+response.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/idazhe/!svn/ver/3/1/system/classes/response.php
+END
+upload.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/idazhe/!svn/ver/3/1/system/classes/upload.php
+END
+config.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/idazhe/!svn/ver/3/1/system/classes/config.php
+END
+form.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/idazhe/!svn/ver/3/1/system/classes/form.php
+END
+log.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/idazhe/!svn/ver/3/1/system/classes/log.php
+END
+num.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/idazhe/!svn/ver/3/1/system/classes/num.php
+END
+http.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/idazhe/!svn/ver/3/1/system/classes/http.php
+END
+route.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/idazhe/!svn/ver/3/1/system/classes/route.php
+END
+request.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/idazhe/!svn/ver/3/1/system/classes/request.php
+END
+fragment.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/idazhe/!svn/ver/3/1/system/classes/fragment.php
+END
+kohana.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/idazhe/!svn/ver/3/1/system/classes/kohana.php
+END
+debug.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/idazhe/!svn/ver/3/1/system/classes/debug.php
+END
+session.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/idazhe/!svn/ver/3/1/system/classes/session.php
+END
+controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/idazhe/!svn/ver/3/1/system/classes/controller.php
+END
+feed.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/idazhe/!svn/ver/3/1/system/classes/feed.php
+END
+i18n.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/idazhe/!svn/ver/3/1/system/classes/i18n.php
+END
+cli.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/idazhe/!svn/ver/3/1/system/classes/cli.php
+END
+arr.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/idazhe/!svn/ver/3/1/system/classes/arr.php
+END
+cookie.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/idazhe/!svn/ver/3/1/system/classes/cookie.php
+END
+encrypt.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/idazhe/!svn/ver/3/1/system/classes/encrypt.php
+END
+view.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/idazhe/!svn/ver/3/1/system/classes/view.php
+END
+model.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/idazhe/!svn/ver/3/1/system/classes/model.php
+END
+profiler.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/idazhe/!svn/ver/3/1/system/classes/profiler.php
+END
+html.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/idazhe/!svn/ver/3/1/system/classes/html.php
+END
+text.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/idazhe/!svn/ver/3/1/system/classes/text.php
+END
+date.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/idazhe/!svn/ver/3/1/system/classes/date.php
+END
+inflector.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/idazhe/!svn/ver/3/1/system/classes/inflector.php
+END
+url.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/idazhe/!svn/ver/3/1/system/classes/url.php
+END
+utf8.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/idazhe/!svn/ver/3/1/system/classes/utf8.php
+END

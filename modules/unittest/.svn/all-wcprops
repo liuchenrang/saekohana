@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/idazhe/!svn/ver/3/1/modules/unittest
+END
+example.phpunit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/idazhe/!svn/ver/3/1/modules/unittest/example.phpunit.xml
+END
+bootstrap_all_modules.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/idazhe/!svn/ver/3/1/modules/unittest/bootstrap_all_modules.php
+END
+bootstrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/idazhe/!svn/ver/3/1/modules/unittest/bootstrap.php
+END
+tests.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/idazhe/!svn/ver/3/1/modules/unittest/tests.php
+END
+README.markdown
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/idazhe/!svn/ver/3/1/modules/unittest/README.markdown
+END

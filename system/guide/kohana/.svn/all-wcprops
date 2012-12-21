@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/idazhe/!svn/ver/3/1/system/guide/kohana
+END
+helpers.md
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/idazhe/!svn/ver/3/1/system/guide/kohana/helpers.md
+END
+requests.md
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/idazhe/!svn/ver/3/1/system/guide/kohana/requests.md
+END
+fragments.md
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/idazhe/!svn/ver/3/1/system/guide/kohana/fragments.md
+END
+config.md
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/idazhe/!svn/ver/3/1/system/guide/kohana/config.md
+END
+conventions.md
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/idazhe/!svn/ver/3/1/system/guide/kohana/conventions.md
+END
+security.md
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/idazhe/!svn/ver/3/1/system/guide/kohana/security.md
+END
+extension.md
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/idazhe/!svn/ver/3/1/system/guide/kohana/extension.md
+END
+menu.md
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/idazhe/!svn/ver/3/1/system/guide/kohana/menu.md
+END
+sessions.md
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/idazhe/!svn/ver/3/1/system/guide/kohana/sessions.md
+END
+install.md
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/idazhe/!svn/ver/3/1/system/guide/kohana/install.md
+END
+mvc.md
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/idazhe/!svn/ver/3/1/system/guide/kohana/mvc.md
+END
+upgrading.md
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/idazhe/!svn/ver/3/1/system/guide/kohana/upgrading.md
+END
+tips.md
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/idazhe/!svn/ver/3/1/system/guide/kohana/tips.md
+END
+controllers.md
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/idazhe/!svn/ver/3/1/system/guide/kohana/controllers.md
+END
+files.md
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/idazhe/!svn/ver/3/1/system/guide/kohana/files.md
+END
+tutorials.md
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/idazhe/!svn/ver/3/1/system/guide/kohana/tutorials.md
+END
+index.md
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/idazhe/!svn/ver/3/1/system/guide/kohana/index.md
+END
+cookies.md
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/idazhe/!svn/ver/3/1/system/guide/kohana/cookies.md
+END
+bootstrap.md
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/idazhe/!svn/ver/3/1/system/guide/kohana/bootstrap.md
+END
+debugging.md
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/idazhe/!svn/ver/3/1/system/guide/kohana/debugging.md
+END
+flow.md
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/idazhe/!svn/ver/3/1/system/guide/kohana/flow.md
+END
+autoloading.md
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/idazhe/!svn/ver/3/1/system/guide/kohana/autoloading.md
+END
+errors.md
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/idazhe/!svn/ver/3/1/system/guide/kohana/errors.md
+END
+modules.md
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/idazhe/!svn/ver/3/1/system/guide/kohana/modules.md
+END
+profiling.md
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/idazhe/!svn/ver/3/1/system/guide/kohana/profiling.md
+END
+routing.md
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/idazhe/!svn/ver/3/1/system/guide/kohana/routing.md
+END

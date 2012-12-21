@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/idazhe/!svn/ver/3/1/system/config
+END
+session.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/idazhe/!svn/ver/3/1/system/config/session.php
+END
+curl.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/idazhe/!svn/ver/3/1/system/config/curl.php
+END
+credit_cards.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/idazhe/!svn/ver/3/1/system/config/credit_cards.php
+END
+inflector.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/idazhe/!svn/ver/3/1/system/config/inflector.php
+END
+mimes.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/idazhe/!svn/ver/3/1/system/config/mimes.php
+END
+userguide.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/idazhe/!svn/ver/3/1/system/config/userguide.php
+END
+user_agents.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/idazhe/!svn/ver/3/1/system/config/user_agents.php
+END
+encrypt.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/idazhe/!svn/ver/3/1/system/config/encrypt.php
+END

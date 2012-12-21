@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/idazhe/!svn/ver/3/1/modules/cache/classes/cache
+END
+wincache.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/idazhe/!svn/ver/3/1/modules/cache/classes/cache/wincache.php
+END
+arithmetic.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/idazhe/!svn/ver/3/1/modules/cache/classes/cache/arithmetic.php
+END
+file.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/idazhe/!svn/ver/3/1/modules/cache/classes/cache/file.php
+END
+sqlite.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/idazhe/!svn/ver/3/1/modules/cache/classes/cache/sqlite.php
+END
+memcache.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/idazhe/!svn/ver/3/1/modules/cache/classes/cache/memcache.php
+END
+memcachetag.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/idazhe/!svn/ver/3/1/modules/cache/classes/cache/memcachetag.php
+END
+exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/idazhe/!svn/ver/3/1/modules/cache/classes/cache/exception.php
+END
+apc.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/idazhe/!svn/ver/3/1/modules/cache/classes/cache/apc.php
+END
+garbagecollect.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/idazhe/!svn/ver/3/1/modules/cache/classes/cache/garbagecollect.php
+END
+tagging.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/idazhe/!svn/ver/3/1/modules/cache/classes/cache/tagging.php
+END

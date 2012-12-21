@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/idazhe/!svn/ver/3/1/modules/database/classes/database
+END
+expression.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/idazhe/!svn/ver/3/1/modules/database/classes/database/expression.php
+END
+query.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/idazhe/!svn/ver/3/1/modules/database/classes/database/query.php
+END
+pdo.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/idazhe/!svn/ver/3/1/modules/database/classes/database/pdo.php
+END
+result.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/idazhe/!svn/ver/3/1/modules/database/classes/database/result.php
+END
+exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/idazhe/!svn/ver/3/1/modules/database/classes/database/exception.php
+END
+mysql.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/idazhe/!svn/ver/3/1/modules/database/classes/database/mysql.php
+END

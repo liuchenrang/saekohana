@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/idazhe/!svn/ver/3/1/modules/cache/tests/cache/arithmetic
+END
+ApcTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/idazhe/!svn/ver/3/1/modules/cache/tests/cache/arithmetic/ApcTest.php
+END
+CacheArithmeticMethods.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/idazhe/!svn/ver/3/1/modules/cache/tests/cache/arithmetic/CacheArithmeticMethods.php
+END
+MemcacheTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/idazhe/!svn/ver/3/1/modules/cache/tests/cache/arithmetic/MemcacheTest.php
+END

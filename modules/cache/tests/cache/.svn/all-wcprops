@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/idazhe/!svn/ver/3/1/modules/cache/tests/cache
+END
+CacheBasicMethodsTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/idazhe/!svn/ver/3/1/modules/cache/tests/cache/CacheBasicMethodsTest.php
+END
+WincacheTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/idazhe/!svn/ver/3/1/modules/cache/tests/cache/WincacheTest.php
+END
+FileTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/idazhe/!svn/ver/3/1/modules/cache/tests/cache/FileTest.php
+END
+SqliteTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/idazhe/!svn/ver/3/1/modules/cache/tests/cache/SqliteTest.php
+END
+CacheTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/idazhe/!svn/ver/3/1/modules/cache/tests/cache/CacheTest.php
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/idazhe/!svn/ver/3/1/system/classes/log
+END
+syslog.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/idazhe/!svn/ver/3/1/system/classes/log/syslog.php
+END
+stdout.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/idazhe/!svn/ver/3/1/system/classes/log/stdout.php
+END
+file.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/idazhe/!svn/ver/3/1/system/classes/log/file.php
+END
+stderr.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/idazhe/!svn/ver/3/1/system/classes/log/stderr.php
+END
+writer.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/idazhe/!svn/ver/3/1/system/classes/log/writer.php
+END
+saefile.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/idazhe/!svn/ver/9/1/system/classes/log/saefile.php
+END
